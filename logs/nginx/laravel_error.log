@@ -1,0 +1,52 @@
+2022/06/07 10:33:54 [error] 11#11: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#4 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /var/www/ethan-tech.com/source/src/st in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php on line 15PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src
+2022/06/07 10:33:58 [error] 11#11: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#4 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /var/www/ethan-tech.com/source/src/st in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php on line 15PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src
+2022/06/07 10:34:25 [error] 11#11: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#4 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /var/www/ethan-tech.com/source/src/st in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php on line 15PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src
+2022/06/07 10:34:27 [error] 11#11: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#4 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /var/www/ethan-tech.com/source/src/st in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php on line 15PHP message: PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Call to a member function getName() on null in /var/www/ethan-tech.com/source/src/storage/framework/views/0344f33c0657581ff7efcf35d53969fb711524ab.php:15
+Stack trace:
+#0 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include()
+#1 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/var/www/ethan-...', Array)
+#2 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/var/www/ethan-...', Array)
+#3 /var/www/ethan-tech.com/source/src/vendor/laravel/framework/src
